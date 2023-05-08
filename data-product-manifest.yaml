@@ -2,9 +2,9 @@
 version: 0.0.1
 discoveryPort:
   name: Test Discovery Port and DQ Rules 2
-  alias: Test0001_input_port
-  shortDescription: New Discovery Port Fields
-  longDescription: Test data product to verify Discovery port fields and DQ rules
+  alias: discover_dp
+  shortDescription: New Discovery Port Fields and Search
+  longDescription: Test data product to verify Discovery port fields and DQ rules. PII
   tags:
     - Spain
     - Property Prices
