@@ -9,6 +9,7 @@ discoveryPort:
     - Spain
     - Property Prices
   versionInformation: '0.1'
+  organization: MAF
   fromMinDataDate: '2022-04-07'
   toMaxDataDate: '2022-04-14'
   industryDomain: Meteorology
